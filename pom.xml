@@ -316,7 +316,5 @@
         <module>admin</module>
         <module>core</module>
         <module>site</module>
-        <module>sss</module>
-        <module>swedish</module>
     </modules>
 </project>
